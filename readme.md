@@ -30,7 +30,7 @@ This project is designed to predict customer churn using a machine learning mode
 
 ## Requirements
 
-- Python 3.6 or higher
+- Python 3.12 or higher
 - Required Python packages are listed in `requirements.txt`:
 
     ```
