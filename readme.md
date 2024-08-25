@@ -57,3 +57,7 @@ pip install -r requirements.txt
 ## Run 
 main.py
 app.py
+
+
+## Model download 
+https://drive.google.com/drive/folders/13MsZ5pYbjnX845kfLshAOaBPvdSk8tFf?usp=drive_link
